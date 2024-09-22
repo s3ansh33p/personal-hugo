@@ -1,0 +1,20 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Sean McGinty"
+
+[params]
+displayName = "EN"
+isoCode = "en-AU"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "https://cdn.mcginty.io/avatar.jpg"
+
+[author]
+bio = "Curtin University (Cyber Security) | ComSSA Secretary | Full Stack Developer, Security Researcher and Privacy Advocate"
+headline = "Software Developer & Security Researcher"
+name = "Sean McGinty"
+links = [ { github = "https://github.com/s3ansh33p" }, { linkedin = "https://www.linkedin.com/in/seanrwmcginty/" } ]
+image = "https://cdn.mcginty.io/avatar.jpg"
+imageQuality = 100

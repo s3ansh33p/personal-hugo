@@ -1,0 +1,7 @@
+{
+    "name": "Hugo Blog Container",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "forwardPorts": [1313]
+}
